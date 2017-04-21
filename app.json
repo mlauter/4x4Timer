@@ -1,0 +1,15 @@
+{
+    "name": "4x4Timer",
+    "description": "A simple timer for training 4x4s with 1:1 work:rest ratio",
+    "repository": "https://github.com/mlauter/4x4Timer",
+    "logo": "http://node-js-sample.herokuapp.com/node.svg",
+    "keywords": [
+        "climbing",
+        "training",
+        "4x4",
+        "timer",
+        "stopwatch",
+        "countdown"
+    ],
+    "image": "heroku/nodejs"
+}

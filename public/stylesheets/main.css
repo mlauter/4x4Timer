@@ -1,0 +1,11 @@
+.btn {
+    border-radius:4px;
+}
+
+.clock {
+    font-size:36px;
+}
+
+.clock .clock-part {
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
